@@ -1,0 +1,6 @@
+{
+  "name": "AI Lawyer Matching",
+  "description": "Rexis AI legal assistant app for matching clients with specialized lawyers based on legal issues, experience, rates, and reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
